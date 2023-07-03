@@ -101,7 +101,7 @@ function MenuWithState({ userJoined }: Props) {
   const RecClick = () => {
     setIsRecOn(!isRecOn);
     if (!isRecOn) {
-      startRecording(`https://blockscribe.vercel.app/${roomId}`);
+      startRecording(`https://sub.arvrtise.com/${roomId}`);
     } else {
       stopRecording();
       console.log("rec stop");
