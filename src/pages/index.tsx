@@ -79,14 +79,16 @@ const App = () => {
             <div className="max-w-[400px]">
               <p className="text-[28px] font-bold opacity-90 space-x-2">
                 <span className="bg-clip-text text-transparent bg-gradient-to-r from-cyan-500 to-blue-500">
-                  GM Buildoors
+                  NFT Sub-scriptions + AI Captions
                 </span>
                 <span>🌞</span>
               </p>
               <p className="mt-[10px] opacity-70 text-[14px]">
-                Lets make sure youre not having a bad hair day 💇‍♂️ or
-                broadcasting a messy house 🏠 to the world 🌎 - do a quick hair
-                check and tidy up any evidence of your untidy lifestyle 🧹.
+                ARVRtise Sub is an advanced meeting app that offers live transcription, 
+                captions, summarization, and token access. It enhances collaboration 
+                and productivity, making it perfect for businesses, startups, and 
+                individuals. Not to mention that creators are paid with a blockchain  
+                NFT Sub-scription model.
               </p>
 
               {isNFT ? (
