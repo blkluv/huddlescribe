@@ -6,7 +6,7 @@ import {
 import { useVideoStore } from "@/hooks/useVideoStore";
 import { NFTStorage } from "nft.storage";
 
-const client = new NFTStorage({ token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweDMxRWZEYkU4MTU1RTQ0Y2NEOWNhNkIwNDBjYTc5MzJmOWNlRjdmNzciLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTY4Mjg0MDM1NTc4NSwibmFtZSI6Imh1ZGRsZXNjcmliZSJ9.n3C82t_ZQvoK0ju4SpbkL2Z6rJK_qsD0R2BMlEaPK_w" });
+const client = new NFTStorage({ token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweEI2ZUQxZTJGZkQ4NUE4RjU5NTg2ZTYzNURiOTYxMTIyNzA5M0Q4ZEEiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTY4ODMzNTIxMDYyMSwibmFtZSI6Ikh1ZGRsZSJ9.ttTEpm-z2fPhbPwcCSd3P2KCf0IWj79Fy08HCwsbAKQ" });
 
 function App(): JSX.Element {
   const { setVideoSrc, videoSrc } = useVideoStore();
