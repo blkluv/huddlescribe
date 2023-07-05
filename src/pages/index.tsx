@@ -79,7 +79,7 @@ const App = () => {
             <div className="max-w-[400px]">
               <p className="text-[28px] font-bold opacity-90 space-x-2">
                 <span className="bg-clip-text text-transparent bg-gradient-to-r from-cyan-500 to-blue-500">
-                  NFT Sub-scriptions + AI Captions
+                  NFT Video Sub-scriptions
                 </span>
                 <span>🌞</span>
               </p>
