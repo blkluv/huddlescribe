@@ -79,9 +79,9 @@ const App = () => {
             <div className="max-w-[400px]">
               <p className="text-[28px] font-bold opacity-90 space-x-2">
                 <span className="bg-clip-text text-transparent bg-gradient-to-r from-cyan-500 to-blue-500">
-                  NFT Video Sub-scriptions
+                  Sub-scriptions
                 </span>
-                <span>🌞</span>
+                <span>🔑</span>
               </p>
               <p className="mt-[10px] opacity-70 text-[14px]">
                 ARVRtise Sub is an advanced meeting app that offers live transcription, 
@@ -129,7 +129,7 @@ const App = () => {
                     onClick={() => console.log("")}
                     className="py-[10px] mt-[20px] cursor-not-allowed	 bg-red-500 w-full rounded-[10px]"
                   >
-                    Please Get Mint NFT to Access App
+                    Mint NFT Key
                   </button>
                   <div className="flex items-center ">
                     <button
